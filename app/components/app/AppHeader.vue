@@ -1,9 +1,10 @@
 <script setup>
 const navMenuLinks = [
   { label: 'Home', to: '/' },
-  { label: 'About', to: '/abouts' },
-  { label: 'Contact', to: '/contact' },
-  { label: 'Project', to: '/project' }
+  { label: 'Study', to: '/study' },
+  { label: 'Projects', to: '/projects' },
+  { label: 'Community', to: '/community' },
+  { label: 'Contact', to: '/contact' }
 ]
 </script>
 

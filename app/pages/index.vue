@@ -11,7 +11,7 @@
     <AppSection />
 
     <!-- Features or Courses Section -->
-    <div class="py-20">
+    <div class="py-10">
       <div class="max-w-7xl mx-auto px-6">
         <!-- Optional Section Title -->
         <div class="text-center mb-16">
@@ -28,18 +28,5 @@
         </div>
       </div>
     </div>
-    <UPageLogos
-      title="បច្ចេកវិទ្យាដែលបានប្រើ"
-      marquee
-      :items="[
-        'i-simple-icons-github',
-        'i-simple-icons-nuxt',
-        'i-simple-icons-git',
-        'i-simple-icons-postgresql',
-        'i-simple-icons-elixir',
-        'i-simple-icons-tailwindcss'
-      ]"
-      class="py-4"
-    />
   </div>
 </template>
